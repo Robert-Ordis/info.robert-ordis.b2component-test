@@ -1,0 +1,6 @@
+目的：フォルダビューでソースの構造把握しつつソリューション内の構造と同期させて混乱を極力押さえる
+
+手順：
+要するに、proj.win32ディレクトリの下に、フォルダビューに見せたいディレクトリのsymlink貼ります。
+frameworks\runtime-src\proj.win32>mklink /D Classes ..\Classes
+\frameworks\runtime-src\proj.win32>mklink /D CCResources ..\..\..\res
