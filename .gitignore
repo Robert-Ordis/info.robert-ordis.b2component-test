@@ -1,0 +1,14 @@
+/config.json
+/.settings
+/runtime
+/simulator
+/.cocos-project.json
+/.project
+/frameworks/cocos2d-x
+/frameworks/runtime-src/proj.android
+/frameworks/runtime-src/proj.android-studio
+/frameworks/runtime-src/proj.ios_mac
+/frameworks/runtime-src/proj.linux
+/frameworks/runtime-src/proj.tizen
+/frameworks/runtime-src/proj.win32
+/frameworks/CMakeLists.txt
